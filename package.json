@@ -1,0 +1,29 @@
+{
+  "name": "kw2100-excersise-4.1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HananHamidMoussa/kw2100-excersise-4.1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HananHamidMoussa/kw2100-excersise-4.1/issues"
+  },
+  "homepage": "https://github.com/HananHamidMoussa/kw2100-excersise-4.1#readme",
+  "description": "",
+  "devDependencies": {
+    "vite": "^6.1.0"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
